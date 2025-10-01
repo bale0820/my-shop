@@ -1,11 +1,7 @@
-// src/App.js
-function Test() {
+export  function Test() {
   return (
     <div>
-      <h1>My Shop</h1>
-      <p>안녕 하하하!</p>
+       <h1>My Shop!!!!!!!!!!!!!!!!!!!!</h1>
     </div>
   );
 }
-
-export default Test;
